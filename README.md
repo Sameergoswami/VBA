@@ -16,3 +16,10 @@
 
 ![image](https://user-images.githubusercontent.com/56490889/114731936-20303580-9d10-11eb-9b8d-f8a453c82a98.png)
 
+**References**
+
+https://stackoverflow.com/questions/42633273/finding-max-of-a-column-in-vba/42633375
+
+https://stackoverflow.com/questions/51977446/vba-find-highest-value-in-a-column-c-and-return-its-value-and-the-adjacent-ce
+
+https://www.excelcampus.com/vba/find-last-row-column-cell/
